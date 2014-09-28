@@ -1,0 +1,27 @@
+body{
+size: 960px;
+background-color: gray;
+}
+
+#logo {
+float: right;
+margin: 20px;
+}
+nav{
+margin-top: 400px;
+clear: both;
+height: 500px;
+width: auto;
+background-color: red;
+}
+nav li{
+display: inline;
+text-align: center;
+list-style: none;
+margin: 50px;
+padding: 50px;
+font-size: 25px;
+border-right: none;
+font-weight: bold;
+position: center;
+}

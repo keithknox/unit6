@@ -8,11 +8,14 @@ font-family: Droid Sans, serif;
 float: right;
 margin: 20px;
 }
+main{
+clear: right;
+width: 960px;
+}
 nav{
-margin-top: 400px;
+margin-top: 150px;
 clear: right;
 height: 500px;
-width: auto;
 background-color: red;
 }
 nav li{
@@ -22,13 +25,11 @@ float: left;
 margin: 30px 10px;
 padding: 0;
 display: inline-block;
-
-
-
 }
 p{
 vertical-align:text-bottom;
 }
+
 
 footer{
 font-size: 15px;
